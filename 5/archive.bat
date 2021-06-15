@@ -1,0 +1,1 @@
+robocopy C:\Program Files\PostgreSQL\13\data\pg_wal C:\Users\sneak\backup /e
